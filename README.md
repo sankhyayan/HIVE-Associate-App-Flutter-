@@ -1,6 +1,6 @@
 # hivesmallassociateapp
 
-A new Flutter project.
+Flutter project with HIVE NoSql Database
 
 ## Getting Started
 
